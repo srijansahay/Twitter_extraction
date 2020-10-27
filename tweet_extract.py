@@ -17,8 +17,8 @@ with open(fName,'w') as f:
     f.close()
 list1=['#hastag1', '#hashtag2']
 for i in list1:
-    API_KEY='Fui3PGAaxkaibo1Lk35Kw2n45'
-    API_SECRET='be8ko2Uuz5NBeYuqBfA12mlyQ8q7vf324DkuKWdYqDukAdjc4C'
+    API_KEY='Your API key'
+    API_SECRET='Your API secret key'
 
  
 
